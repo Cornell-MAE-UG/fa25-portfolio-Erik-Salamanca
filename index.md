@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Erik Salamanca>
+title: Erik Salamanca Portfolio
 ---
 
 ## About Me
