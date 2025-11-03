@@ -3,7 +3,7 @@ layout: project
 title: Tug N' Tick
 description: Prototype Dog Leash
 technologies: [Inventor, Machining]
-image: /assets/images/.jpg
+image: /assets/images/dog.webp
 ---
 
 
