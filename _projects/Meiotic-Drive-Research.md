@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Miotic Drive Research
+title: Meiotic Drive Research
 description: Genetic Research
 technologies: [Expiremental Lab Techiques]
 image: /assets/images/radio-machine-cad.jpg
