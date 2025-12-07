@@ -8,3 +8,11 @@ $color_scheme: '{{ site.color_scheme }}';
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Merriweather:wght@400;700&display=swap');
 @import "custom";
 
+.project-image {
+  width: 100%;
+  height: auto;       /* Prevents cropping */
+  object-fit: contain; /* Ensures full image stays visible */
+  max-height: 400px;   /* Optional: keeps images from getting too tall */
+  display: block;
+  margin: 0 auto;      /* Center the image */
+}
