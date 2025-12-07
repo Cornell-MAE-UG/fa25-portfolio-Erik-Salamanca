@@ -44,3 +44,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
+# Equations
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
