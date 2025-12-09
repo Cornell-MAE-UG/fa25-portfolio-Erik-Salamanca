@@ -5,7 +5,7 @@ description: Analysis Project
 technologies: [Oscilliscope, High Speed Camera]
 image: /assets/images/SP_Speaker.png
 ---
-For this project our team decided to analysis a speaker. We were given an echo dot (5th gen) and had to take it apart to find the speaker inside. In doing so we identified three major components of the system. 
+For this project our team decided to analysis a speaker. On this page I will write a summary of what I contributed to the project and that the end I will link a pdf of the report with my other group memebers sections of the report. We were given an echo dot (5th gen) and had to take it apart to find the speaker inside.  In doing so we identified three major components of the system. 
 
 <p align="center">
   <img src="../../assets/images/SP_User_Control.png" width="400">
@@ -144,3 +144,8 @@ $$
 [accessed Dec. 05, 2025].
 
 [3] M. Campbell. MAE 3260. Class Lecture, Topic: “State Space Models.” College of Engineering, Cornell University, Ithaca, NY, Oct. 6, 2025.
+
+
+## Full Report
+
+[Downloadable PDF Here](../assets/CV.pdf)
