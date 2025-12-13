@@ -148,4 +148,4 @@ $$
 
 ## Full Report
 
-[Downloadable PDF Here](../assets/CV.pdf)
+[Downloadable PDF Here](../assets/MAE3260-Final-Groupqork-Report.pdf)
